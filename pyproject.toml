@@ -1,14 +1,12 @@
 [tool.poetry]
-name = "matplotlib numpy"
+name = "signals"
 version = "0.1.0"
 description = ""
-authors = ["keith-moreno <108557464+k1tooy@users.noreply.github.com>"]
+authors = ["keith"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-matplotlib = "^3.9.0"
-numpy = "^1.26.4"
 
 
 [build-system]
