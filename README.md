@@ -5,8 +5,9 @@ Moreno, John Keith Floyd L.
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [scipy](https://docs.scipy.org/doc//scipy/index.html)
+- sounddevice
 
 To install make sure pip is installed and run the following command
 ```bash
-pip install scipy numpy matplotlib
+pip install scipy numpy matplotlib sounddevice
 ```
